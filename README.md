@@ -1,13 +1,2 @@
-
-tercall is a telephony command based on termux api for termux.
-# how use?
-First, install the termux:api app. Then, type install and install the api. Then, type call and enter your phone number.
-# How to run
-Install the app and package above (skip if you have already installed it)
-First, type [cd /sdcard/Download/call] (may vary depending on device) and then type [bash main.sh] and you're done. 
-# install tercall
-stopting update |
-<br>
-<a href="https://github.com/XMAXCMCIS/tercall-termux/releases">install</a>
-# by
-XMAXCMCIS for CMCIS
+뭔 생각하고만들었는지는 모르겠지만 
+Termux에 전화거는 기능으로 넣은것같은ㅅㅅ
